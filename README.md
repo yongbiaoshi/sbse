@@ -5,3 +5,4 @@ Spring Boot Security Demo工程
 -----------------------------
 
 ###FormLogin
+/login post
